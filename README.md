@@ -1,4 +1,6 @@
-# Ruby on Rails Tutorial sample application
+# MicroBlog Platform
+
+Ruby on Rails sample application for the MicroBlog Platform repository.
 
 ## Reference implementation
 
