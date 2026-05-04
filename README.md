@@ -23,8 +23,8 @@ To get started with the app, first follow the setup steps in [Section 1.1 Up and
 Next, clone the repo and `cd` into the directory:
 
 ```
-$ git clone https://github.com/mhartl/sample_app_6th_ed.git
-$ cd sample_app_6th_ed
+$ git clone https://github.com/Shivamroy0304/MicroBlog_Platform.git
+$ cd MicroBlog_Platform
 ```
 
 Also make sure you’re using a compatible version of Node.js:
@@ -114,7 +114,7 @@ For example, to check out the branch for Chapter 7, you would run this at the co
 $ git checkout sign-up
 ```
 
-## Help with the Rails Tutoiral
+## Help with the Rails Tutorial
 
 Experience shows that comparing code with the reference app is often helpful for debugging errors and tracking down discrepancies. For additional assistance with any issues in the tutorial, please consult the [Rails Tutorial Help page](https://www.railstutorial.org/help).
 
